@@ -1,4 +1,4 @@
-# Temperature and Humidity Monitoring using Esp8266
+#Interfacing nodemcu with DHT11 with cloud integration
 short description of the project
 ## Description
 a longer description of the project
