@@ -1,4 +1,4 @@
-# Title
+# Temperature and Humidity Monitoring using Esp8266 NodeMCU
 short description of the project
 ## Description
 a longer description of the project
