@@ -15,10 +15,13 @@ The working flow is shown in the block diagram.
 Circuit diagram of the project
 
 ## Components
-List of components used in the project
+Nodemcu
+DHT11 sensor
 
 ## Features
-List of features of the project
+Remote monitoring of environment around sensors
+
+
 
 ## Project Structure
 ```
