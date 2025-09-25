@@ -1,11 +1,14 @@
 ## Interfacing nodemcu with DHT11 with cloud integration
-short description of the project
+This project aims in interfacing esp8266 nodemcu with DHT11 and show the results in in a cloud intefrace.
 ## Description
-a longer description of the project
+The whole idea is based on ESP8266 nodemcu and DHT11 sensor is interfaced to get the measurements. The Wi-Fi capabilities of nodemcu is particularly used to show the output from the sensors to a host.
+The working flow is shown in the block diagram.
+
+
 
 ## Block Diagram
 
-Block diagram of the project
+
 
 ## Circuit Diagram
 
